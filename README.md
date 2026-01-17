@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Saptarshi Ghosh
-**Computer Science Undergraduate || Machine Learning & Image Processing Enthusiast || Web Engineering**
+**Computer Science Undergraduate || Machine Learning & Image Processing || Web Engineering**
 
 Email Me 👉 ✉️ **saptarshi.internship@gmail.com** For Collaboration/Project or Anything Else. 😊
 
