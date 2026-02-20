@@ -17,4 +17,6 @@ Email Me 👉 ✉️ **saptarshi.internship@gmail.com** For Collaboration/Projec
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 
